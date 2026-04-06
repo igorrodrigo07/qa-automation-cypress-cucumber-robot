@@ -26,3 +26,7 @@ Projeto com foco em automação de testes utilizando diferentes ferramentas.
 ### Cypress
 ```bash
 npx cypress open
+
+### Robot Framework
+```bash
+py -m robot robot-project/test.robot
