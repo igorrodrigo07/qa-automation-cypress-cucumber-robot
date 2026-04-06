@@ -28,7 +28,7 @@ Para rodar os testes, utilize os comandos abaixo:
 ### Cypress
 ```bash
 npx cypress open
-
-### Robot Framework
-```bash
 python -m robot robot-project/test.robot
+
+Robot Framework
+py -m robot robot-project/test.robot
