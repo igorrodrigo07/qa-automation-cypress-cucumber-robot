@@ -25,10 +25,9 @@ Projeto com foco em automação de testes utilizando diferentes ferramentas.
 
 Para rodar os testes, utilize os comandos abaixo:
 
+### Robot Framework
+py -m robot robot-project/test.robot
+
 ### Cypress
 ```bash
 npx cypress open
-python -m robot robot-project/test.robot
-
-Robot Framework
-py -m robot robot-project/test.robot
