@@ -28,8 +28,8 @@ Para rodar os testes, utilize os comandos abaixo:
 ### Robot Framework
 py -m robot robot-project/test.robot
 
-### Cypress
+### Cypress  (modo interativo)
 ```bash
-npx cypress open (modo interativo)
+npx cypress open
 
-npx cypress run (Para rodar tudo direto)
+npx cypress run
