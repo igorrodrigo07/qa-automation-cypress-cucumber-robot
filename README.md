@@ -30,4 +30,6 @@ py -m robot robot-project/test.robot
 
 ### Cypress
 ```bash
-npx cypress open
+npx cypress open (modo interativo)
+
+npx cypress run (Para rodar tudo direto)
